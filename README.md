@@ -5,3 +5,8 @@ The only issue with this challenge was making the position for the "online reput
 
 <!-- added the link -->
 https://moshe-jpg.github.io/Assignment-Horiseon-Social-Solution-Services-Inc./
+
+<!-- added pictures -->
+![Alt text](relative/path/to/Develop\assets\images\Screenshot (106).png?raw=true "Title")
+![Alt text](relative/path/to/Develop\assets\images\Screenshot (107).png?raw=true "Title")
+![Alt text](relative/path/to/Develop\assets\images\Screenshot (108).png?raw=true "Title")
